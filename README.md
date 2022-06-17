@@ -1,3 +1,26 @@
+
+# Cloned Marketing website from graphcms to use for marketing our new site 
+
+Changes will be made to personalize site for tutoring music 
+
+# First iteration use graphcms 
+
+Enable backend for publish content and configure blog as JTF News 
+* commit to private github
+* edit site
+* connect calendar
+* setup brochure to include Zelle QR Code for payment of services
+* Future Services will use Stripe for full capibilty to include billing.payment and invoicing ~ iteration 2
+* publish edited site to firebase
+
+
+
+
+
+
+
+
+
 # reference-marketing-website
 
 > A [Next.js](https://nextjs.org/) starter for creating a SaaS Marketing Website with [GraphCMS](https://graphcms.com)
